@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ba888Ton
 
+- 💻 I make front
+
 - 👀 I’m interested in React
 
 - 🌱 I’m currently learning Node
