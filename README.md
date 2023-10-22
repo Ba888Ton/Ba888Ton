@@ -4,8 +4,6 @@
 
 - 👀 I’m interested in React
 
-- 🌱 I’m currently learning Node
-
 - 📫 How to reach me ba888ton@gmail.com
 
 <!---
