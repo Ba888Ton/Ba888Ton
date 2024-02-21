@@ -2,7 +2,7 @@
 
 - 💻 I make front
 
-- 👀 I’m interested in React
+- 👀 I’m interested in Vue
 
 - 📫 How to reach me ba888ton@gmail.com
 
